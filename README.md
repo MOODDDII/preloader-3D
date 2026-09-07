@@ -2,7 +2,7 @@
 
 A lightweight, dependency-free 3D preloader/loading animation built with **Three.js**. It renders a rotating wireframe sphere on a transparent `<canvas>` that fills the entire browser window, making it easy to drop into any page as a loading screen.
 
-## Demo - Demo Link(https://moodddii.github.io/preloader-3D/)
+## Demo - [Demo Link](https://moodddii.github.io/preloader-3D/)
 
 Open `index.html` in a browser (with `three.js` in the same folder) to see a slowly rotating wireframe sphere centered on the screen.
 
